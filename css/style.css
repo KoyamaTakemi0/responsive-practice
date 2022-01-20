@@ -221,6 +221,8 @@
   align-items: center;
 }
 
+/* order：アイテムを並べる順序を設定。
+　　　　　　初期値は 0  */
 .box_Q7-1{
   background-color: #ff0000;
   order: 0;
